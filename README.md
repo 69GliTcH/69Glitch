@@ -1,6 +1,8 @@
-![MasterHead](https://media.istockphoto.com/id/1297564630/vector/game-dev-isometric-concept-education-of-creation-3d-design-of-location-or-level-computer.jpg?s=170667a&w=0&k=20&c=bXAJrxnPHWdWfN9sHKuWW3B1RSQ0PfAPDFtgBDFeoNs=)
+<!-- ![MasterHead](https://media.istockphoto.com/id/1252856954/vector/software-development-web-coding-on-laptop-synchronization-work-data-with-cloud-storage.jpg?s=612x612&w=0&k=20&c=YwS8rZJNjFuIbwCg"DWUAmbIfMAOLQfozBLU7oKMU9wQ=) -->
+<img align="centre" width="99%" height="350" src="https://png.pngtree.com/background/20210715/original/pngtree-hud-infographic-with-notebook-low-poly-design-picture-image_1276778.jpg">
 <h1 align="center">Hi 👋, I'm Saksham Verma</h1>
 <h3 align="center">A passionate frontend developer</h3>
+- 🌱 I’m currently learning Javascript and React
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
