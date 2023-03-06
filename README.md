@@ -1,6 +1,6 @@
 <h1 align="center">Hey this is Saksham Verma.</h1>
 <h3 align="center">A passionate Programmer.</h3>
-<img alt="Coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fletterphile&psig=AOvVaw0kh0I3UYCyWtmPMBji2KKl&ust=1678175928325000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMi5ltLqxv0CFQAAAAAdAAAAABAn">
+<img alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fletterphile&psig=AOvVaw0kh0I3UYCyWtmPMBji2KKl&ust=1678175928325000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMi5ltLqxv0CFQAAAAAdAAAAABAn">
 
 - 🌱 I’m currently learning **Javascript and React.**
 
