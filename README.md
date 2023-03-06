@@ -1,14 +1,14 @@
-<!-- ![MasterHead](https://media.istockphoto.com/id/1252856954/vector/software-development-web-coding-on-laptop-synchronization-work-data-with-cloud-storage.jpg?s=612x612&w=0&k=20&c=YwS8rZJNjFuIbwCg"DWUAmbIfMAOLQfozBLU7oKMU9wQ=) -->
-<img align="centre" width="99%" height="350" src="https://png.pngtree.com/background/20210715/original/pngtree-hud-infographic-with-notebook-low-poly-design-picture-image_1276778.jpg">
-<h1 align="center">Hi 👋, I'm Saksham Verma</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hey this is Saksham Verma.</h1>
+<h3 align="center">A passionate Programmer.</h3>
 
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m currently learning **Javascript and React.**
+
+- 📫 How to reach me **vermasaksham69@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saksham-verma-82bb8722a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saksham-verma-82bb8722a" height="30" width="40" /></a>
-<a href="https://discord.gg/GliTcH#0628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GliTcH#0628" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/saksham-verma-82bb8722a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saksham-verma-82bb8722a" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/2XE9uqYE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/2XE9uqYE" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
