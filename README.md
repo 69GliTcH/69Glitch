@@ -1,5 +1,4 @@
 <img src="1.gif" align="center" width="1000">
-# 💫 About Me:
 🌱 I’m currently learning JavaScript and React.
 
 
